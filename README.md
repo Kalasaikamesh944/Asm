@@ -1,6 +1,6 @@
 
 # CPU Registers and System Calls
-[https://github.com/Kalasaikamesh944/Asm/blob/main/images%20(4).jpeg]
+![](https://github.com/Kalasaikamesh944/Asm/blob/main/images%20(4).jpeg)
 ## Introduction
 CPU Registers and System Calls are fundamental components in computer architecture that play an essential role in the operation of a computer system. 
 CPU Registers store data temporarily for quick processing, while system calls allow programs to request services from the operating system.
